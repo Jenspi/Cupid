@@ -18,10 +18,17 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_arrow","order":3,"path":"objects/obj_arrow/obj_arrow.yy",},
+    {"name":"obj_generator_person","order":5,"path":"objects/obj_generator_person/obj_generator_person.yy",},
+    {"name":"obj_gui","order":4,"path":"objects/obj_gui/obj_gui.yy",},
     {"name":"obj_heart_black","order":1,"path":"objects/obj_heart_black/obj_heart_black.yy",},
     {"name":"obj_person","order":2,"path":"objects/obj_person/obj_person.yy",},
     {"name":"spr_arrow","order":3,"path":"sprites/spr_arrow/spr_arrow.yy",},
     {"name":"spr_heart_black","order":1,"path":"sprites/spr_heart_black/spr_heart_black.yy",},
+    {"name":"spr_hearts_blue","order":6,"path":"sprites/spr_hearts_blue/spr_hearts_blue.yy",},
+    {"name":"spr_hearts_green","order":8,"path":"sprites/spr_hearts_green/spr_hearts_green.yy",},
+    {"name":"spr_hearts_orange","order":4,"path":"sprites/spr_hearts_orange/spr_hearts_orange.yy",},
+    {"name":"spr_hearts_purple","order":7,"path":"sprites/spr_hearts_purple/spr_hearts_purple.yy",},
     {"name":"spr_hearts_red","order":2,"path":"sprites/spr_hearts_red/spr_hearts_red.yy",},
+    {"name":"spr_hearts_yellow","order":5,"path":"sprites/spr_hearts_yellow/spr_hearts_yellow.yy",},
   ],
 }
